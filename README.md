@@ -104,6 +104,6 @@ Now open http://localhost:5173/ inn your browser to see the app.
 
 ---
 
-## Liscense
+## License
 
-MIT Liscense
+MIT License
